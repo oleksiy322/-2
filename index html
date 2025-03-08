@@ -1,0 +1,28 @@
+<html>
+        
+    <head>
+        <title>Мандри по світу</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+     <header>
+     <div class="o"><h1>Мадри по свту</h1></div>
+        </header>
+           <nav>
+            <a href="">Про нас</a>
+            <a href="">Відео</a>
+            </nav>
+        <div class="po">Bідео </div>
+<main>
+  <iframe width="300px" height="250px" src="https://www.youtube.com/embed/YUzFyMlmVQc" title="ЛОНДОН. Біг на протезі, Гаррі Поттер, Тед Лассо та інша магія найцікавішого міста світу." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="300" height="250" src="https://www.youtube.com/embed/k5k36MUjjqA" title="ІТАЛІЯ. 6000 кілометрів. Флоренція, Венеція, Мілан3, Доломіти, Верона, Болонья, Лаго, Браєс, Комо" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="250" src="https://www.youtube.com/embed/aG-CObsn3FQ" title="ПАРИЖ на вікенд. Чому всі на ньому збожеволіли? Великий випуск" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="250" src="https://www.youtube.com/embed/9EajE9VzFKA" title="China 12K Ultra HD HDR | Dolby Vision (120 FPS) with Chinese Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</main>
+ <footer>
+            <p class="ok">Номер телефону: +38096748146</p>
+            <p class="ko">Вулиця богдана хмельницького м.Київ</p>
+        </footer>
+    </body>
+
+</html>
